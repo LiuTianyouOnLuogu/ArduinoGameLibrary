@@ -7,3 +7,5 @@ update_key KEYWORD2
 LCD_type KEYWORD2
 LCD_putchar KEYWORD2
 LCD_clear KEYWORD2
+LCD_write KEYWORD2
+LCD_createChar KEYWORD2
